@@ -2,7 +2,7 @@
 
 This file describes the working run_analysis.R script.
 
-*Set the working directory
+* Set the working directory
 * Make sure the folder "data" and the run_analysis.R script are both in the current working directory.
 * Second, use source("run_analysis.R") command in RStudio. 
 * Two output files are generated in the working directory:
